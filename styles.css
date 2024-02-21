@@ -1,0 +1,73 @@
+body {
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1305430814615928397/D0A9D253C180A7C0477D01A67C74296E9890BA9C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    text-align: center;
+    font-family: sans-serif;
+    color: blanchedalmond;
+}
+
+hr {
+    height: 4px;
+    
+    background-color: rgb(252, 115, 4);
+    border: none;
+}
+
+.linkbutton {
+    margin-top: 25px;
+}
+button {
+    background-color: rgb(36, 39, 47);
+    width: 75%;
+    height: 50px;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    border-radius: 10px;
+    color: blanchedalmond;
+    font-family: sans-serif;
+    margin-top: 0px;
+    border: none
+}
+button:hover {
+    background-color: rgb(252, 115, 4);
+    color: black;
+    font-weight: bolder;
+    font-size: medium;
+    width: 76%;
+    margin-left: 12%;
+    margin-right: 12%;
+    height: 52px;
+    margin-top: -2px;
+}
+button:active {
+    background-color: blanchedalmond;
+    color: rgb(252, 115, 4)
+}
+
+main {
+    background-color: rgba(45, 52, 57, 0.985);
+    height: fit-content;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 3%;
+}
+h1 {
+    margin-top: -10px;
+    margin-bottom: 0;
+}
+
+.pfp {
+    border-radius: 10px;
+    border: none;
+    margin-top: 0.7%;
+}
+
+#egg {
+    background-color: rgb(99, 19, 19);
+    border-radius: 20px;
+    margin-top: 2%;
+}
+#egg:hover {
+    background-color: rgb(252, 115, 4);
+}
